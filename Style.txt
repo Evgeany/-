@@ -1,0 +1,144 @@
+Стили Header;
+
+background-color: #000000;
+
+.nav-itmems {
+  font-size: 16px;
+  font-family: "PTSans";
+  color: rgb(255, 255, 255);
+  color: #ffffff;
+  font-weight: bold;
+  line-height: 1.25;
+  text-align: center;
+}
+
+.advantages h2 {
+  font-size: 30px;
+  font-family: "PTSans";
+  color: rgb(247, 244, 241);
+  color: #ffffff;
+  font-weight: bold;
+  line-height: 1.4;
+  text-align: center;
+}
+
+.advantages-text {
+  font-size: 14px;
+  font-family: "PTSans";
+  color: rgb(247, 244, 241);
+  color: #ffffff;
+  font-weight: bold;
+  line-height: 1.714;
+  text-align: center;
+  
+}
+
+
+.news h2, gallery h2 {
+  font-size: 30px;
+  font-family: "PTSans";
+  color: rgb(0, 0, 0);
+  color: #000000;
+  font-weight: bold;
+  line-height: 1.4;
+  text-align: center;
+}
+
+.news p {
+  font-size: 14px;
+  font-family: "PTSans";
+  color: rgb(0, 0, 0);
+  color: #000000;
+  font-weight: bold;
+  line-height: 1.714;
+}
+
+.button news, .button gallery {
+  background-color: #000000;
+  width: 140px;
+  height: 44px;
+}
+
+.button news p, .button gallery p {
+  font-size: 14px;
+  font-family: "PTSans";
+  color: rgb(255, 255, 255);
+  color: #ffffff;
+  font-weight: bold;
+  line-height: 1.714;
+  text-align: center;
+}
+
+
+.contacts h2, .appointment h2 {
+  font-size: 30px;
+  font-family: "PTSans";
+  color: rgb(0, 0, 0);
+  color: #000000;
+  font-weight: bold;
+  line-height: 1.4;
+  text-align: left;
+}
+
+.contacts p, .appointment p, .button contacts p, .button .appointment p{
+  font-size: 14px;
+  font-family: "PTSans";
+  color: rgb(0, 0, 0);
+  color: #000000;
+  font-weight: bold;
+  line-height: 1.714;
+  text-align: left;
+}
+
+.button contacts{
+  background-color: #000000;
+  width: 140px;
+  height: 43px;
+}
+
+.button appointment {
+  background-color: #000000;
+  width: 300px;
+  height: 43px;
+}
+
+.form-appointment-placeholder-text {
+  font-size: 14px;
+  font-family: "PTSans";
+  color: rgba(0, 0, 0, 0.702);
+  font-weight: bold;
+  line-height: 1.714;
+}
+
+footer-section-1 {
+  font-size: 14px;
+  font-family: "PTSans";
+  color: rgb(255, 255, 255);
+  color: #ffffff;
+  font-weight: bold;
+  line-height: 1.714;
+  text-align: left;
+ 
+  width: 307px;
+  height: 88px;
+}
+
+footer-section-2-h2 ДАВАЙТЕ_ДРУЖИТЬ, Разработано, HTMLAcademy{
+  font-size: 14px;
+  font-family: "PTSans";
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 1.714;
+  text-align: left;
+ 
+  width: 108px;
+  height: 15px;
+  
+}
+
+кнопка HTMLAcademy{
+  background-color: #000000;
+  width: 140px;
+  height: 43px;
+}
